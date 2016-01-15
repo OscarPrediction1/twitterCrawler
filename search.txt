@@ -11,134 +11,45 @@
 best picture
 #bestpicture
 #spotlight
-the revenant
+spotlight
 #therevenant
-the big short
+revenant
+the revenant
 #thebigshort
-#bigshort
-#joy
-#carol
-steve jobs
-#stevejobs
+bigshort
+the big short
 #room
-bridge of spies
+room
 #bridgeofspies
-inside out
-#insideout
-the danish girl
-#thedanishgirl
-#danishgirl
-the hateful eight
-#thehatefuleight
-#hatefuleight
-the martian
+bridge of spies
 #themartian
-#martian
-#brooklyn
-i saw the light
-#isawthelight
-far from the madding crowd
-#farfromthemaddingcrowd
-#southpaw
-beasts of no nation
-#beastsofnonation
-#concussion
-love and mercy
-#loveandmercy
-#macbeth
-mad max fury road
+themartian
+the martian
+martian
 #madmaxfuryroad
-#madmax
-#furyroad
-son of saul
-#sonofsaul
-#suffragette
-the dressmaker
-#thedressmaker
-#dressmaker
-the end of the tour
-#theendofthetour
-#endofthetour
-the walk
-#thewalk
-#walk
-black mass
-#blackmass
-money monster
-#moneymonster
-#sicario
-the good dinosaur
-#thegooddinosaur
-#gooddinosaur
-#truth
-45 years
-#45years
-a bigger splash
-#abiggersplash
-#biggersplash
-adam jones
-#adamjones
-#amy
-by the sea
-#bythesea
-#demolition
-#everest
-#freeheld
-#genius
-in the heart of the sea
-#intheheartofthesea
-#legend
-me and earl and the dying girl
-#meandearlandthedyinggirl
-mr holmes
-#mrholmes
-#snowden
-#spectre
-#starwarstheforceawakens
-#theforceawakens
-straight outta compton
-#straightouttacompton
-#trumbo
-#youth
-united passions
-#unitedpassions
+madmaxfuryroad
+mad max fury road
+madmax
+furyroad
+#brooklyn
+brooklyn
 -/Best Picture-
 
 -Best Director-
 best director
 #bestdirector
-david o russel
-davidorussel
 alejandro gonzalez inarritu
 alejandrogonzalezinarritu
 thomas mccarthy
 thomasmccarthy
-danny boyle
-dannyboyle
-todd haynes
-toddhaynes
-quentin tarantino
-quentintarantino
-cary fukunage
-caryfukunage
-ridley scott
-ridleyscott
-steven spielberg
-stevenspielberg
+tom mccarthy
+tommccarthy
 george miller
 georgemiller
 lenny abrahamson
 lennyabrahamson
-tom hooper
-tomhooper
-scott cooper
-scottcooper
-john crowley
-johncrowley
-paolo sorrentino
-paolosorrentino
-sarah gavron
-sarahgavron
+adam mckay
+adammckay
 -/Best Director-
 
 -Best Actor-
@@ -148,55 +59,14 @@ michael fassbender
 michaelfassbender
 leonardo dicaprio
 leonardodicaprio
+leo dicaprio
+leodicaprio
 eddie redmayne
 eddieredmayne
-johnny depp
-johnnydepp
-tom hiddleston
-tomhiddleston
-jake gyllenhaal
-jakegyllenhaal
-michael caine
-michaelcaine
-tom courtenay
-tomcourtenay
-doncheadle
-don cheadle
-robert redford
-robertredford
 matt damon
 mattdamon
 bryan cranston
 bryancranston
-will smith
-willsmith
-brad pitt
-bradpitt
-jacob tremblay
-jacobtremblay
-joseph gordon-levitt
-josephgordon-levitt
-josephgordonlevitt
-andrew garfield
-andrewgarfield
-bradley cooper
-bradleycooper
-ian mckellen
-ianmckellen
-jason segel
-jasonsegel
-samuel l jackson
-samuelljackson
-tom hanks
-tomhanks
-tom hardy
-tomhardy
-abraham attah
-abrahamattah
-geza rohrig
-gezarohrig
-richard gere
-richardgere
 -/Best Actor-
 
 -Best Actress-
@@ -210,101 +80,23 @@ jennifer lawrence
 jenniferlawrence
 saoirse ronan
 saoirseronan
-carey mulligan
-careymulligan
-meryl streep
-merylstreep
-julia roberts
-juliaroberts
-lily tomlin
-lilytomlin
-marion cotillard
-marioncotillard
-viola davis
-violadavis
-naomi watts
-naomiwatts
-maggie smith
-maggiesmith
 charlotte rampling
 charlotterampling
-juliette binoche
-juliettebionche
-sarah silverman
-sarahsilverman
-alicia vikander
-aliciavikander
-angelina jolie
-angelinajolie
-emily blunt
-emilyblunt
-amy schumer
-amyschumer
-blythe danner
-blythedanner
-charlize theron
-charlizetheron
-helen mirren
-helenmirren
-julianne moore
-juliannemoore
-nicole kidman
-nicolekidman
-sandra bullock
-sandrabullock
 -/Best Actress-
 
 -Best Supporting Actor-
 best supporting actor
 #bestsupportingactor
-michael keaton
-michaelkeaton
-idris elba
-idriselba
 tom hardy
 tomhardy
-samuel l jackson
-samuelljackson
-joel edgerton
-joeledgerton
-benicio del toro
-beniciodeltoro
 mark rylance
 markrylance
-robert de niro
-robertdeniro
 mark ruffalo
 markruffalo
-harvey keitel
-harveykeitel
-jacob tremblay
-jacobtremblay
-jason segel
-jasonsegel
-paul dano
-pauldano
-bradley cooper
-bradleycooper
-edgar ramirez
-edgarramirez
-kurt russel
-kurtrussel
-robert redford
-robertredford
-seth rogen
-sethrogen
-jason mitchell
-jasonmitchell
-jason statham
-jasonstatham
-jeff daniels
-jeffdaniels
-michael shannon
-michaelshannon
-tom courtney
-tomcourtney
-topher grace
-tophergrace
+christian bale
+christianbale
+sylvester stallone
+sylvesterstallone
 -/Best Supporting Actor-
 
 -Best Supporting Actress-
@@ -318,28 +110,22 @@ kate winslet
 katewinslet
 jennifer jason leigh
 jenniferjasonleigh
-jane fonda
-janefonda
-ellen page
-ellenpage
-joan allen
-joanallen
-kirsten stewart
-kirstenstewart
-diane ladd
-dianeladd
-helen mirren
-helenmirren
-helena bonham carter
-helenabonhamcarter
 rachel mcadams
 rachelmcadams
-rachel weisz
-rachelweisz
-amy ryan
-amyryan
-julianne nicholson
-juliannenicholson
-julie walters
-juliewalters
 -/Best Supporting Actress-
+
+-Original Screenplay-
+original screenplay
+originalscreenplay
+exmachina
+ex machina
+insideout
+insideout
+straightouttacompton
+straight outta compton
+-/Original Screenplay
+
+-Adapted Screenplay-
+adapted screenplay
+adaptedscreenplay
+-/Adapted Screenplay
